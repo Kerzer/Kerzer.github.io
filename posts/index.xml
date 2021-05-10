@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Evictions in NYC</title>
+    <link>Kerzer.github.io/posts/</link>
+    <description>Recent content in Posts on Evictions in NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 21:33:12 +0200</lastBuildDate><atom:link href="Kerzer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eviction</title>
+      <link>Kerzer.github.io/posts/eviction/</link>
+      <pubDate>Mon, 10 May 2021 21:33:12 +0200</pubDate>
+      
+      <guid>Kerzer.github.io/posts/eviction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
