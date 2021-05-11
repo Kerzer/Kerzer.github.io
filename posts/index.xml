@@ -26,5 +26,15 @@
         <description>Making test text to see if it changes order of what is presented</description>
       </item>
     
+      <item>
+        <title>Map</title>
+        <link>https://Kerzer.github.io/posts/map/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/map/</guid>
+        <description>writing some text to see if the posts is in the build
+    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); });</description>
+      </item>
+    
   </channel>
 </rss>
