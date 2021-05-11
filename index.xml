@@ -5,6 +5,26 @@
     <link>https://Kerzer.github.io/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 08:14:47 +0200</lastBuildDate><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Piechart</title>
+        <link>https://Kerzer.github.io/posts/piechart/</link>
+        <pubDate>Tue, 11 May 2021 08:14:47 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/piechart/</guid>
+        <description>Piechart showing the distribution evictions in the boroughs of New York City
+</description>
+      </item>
+    
+      <item>
+        <title>Eviction</title>
+        <link>https://Kerzer.github.io/posts/eviction/</link>
+        <pubDate>Mon, 10 May 2021 21:33:12 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/eviction/</guid>
+        <description>Making test text to see if it changes order of what is presented</description>
+      </item>
+    
   </channel>
 </rss>
