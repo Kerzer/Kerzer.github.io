@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evictions in NYC</title>
+    <link>https://Kerzer.github.io/tags/new-york-city/</link>
+    <description>John Doe&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://Kerzer.github.io/tags/new-york-city/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Data selection</title>
+        <link>https://Kerzer.github.io/posts/data_selection/</link>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/data_selection/</guid>
+        <description>Initially the selection of data was based on something that had impact on people within cities, along with being something that was possbile to find in a public data base. The Eviction dataset fitted those criteria, along with the fact it is rather suble why you would be evicted, which could be explored further with machine learning and the use of other data sets.
+At a closer expection of the data set the following observations were made.</description>
+      </item>
+    
+  </channel>
+</rss>

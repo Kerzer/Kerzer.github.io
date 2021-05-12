@@ -8,7 +8,17 @@
     <language>en-us</language>
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 May 2021 08:14:47 +0200</lastBuildDate><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Data selection</title>
+        <link>https://Kerzer.github.io/posts/data_selection/</link>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/data_selection/</guid>
+        <description>Initially the selection of data was based on something that had impact on people within cities, along with being something that was possbile to find in a public data base. The Eviction dataset fitted those criteria, along with the fact it is rather suble why you would be evicted, which could be explored further with machine learning and the use of other data sets.
+At a closer expection of the data set the following observations were made.</description>
+      </item>
+    
       <item>
         <title>About this project</title>
         <link>https://Kerzer.github.io/about/</link>
@@ -19,21 +29,20 @@ All rights reserved.</copyright>
       </item>
     
       <item>
-        <title>Piechart</title>
-        <link>https://Kerzer.github.io/posts/piechart/</link>
-        <pubDate>Tue, 11 May 2021 08:14:47 +0200</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/piechart/</guid>
-        <description>Piechart showing the distribution evictions in the boroughs of New York City
-</description>
-      </item>
-    
-      <item>
         <title>Eviction</title>
         <link>https://Kerzer.github.io/posts/eviction/</link>
         <pubDate>Mon, 10 May 2021 21:33:12 +0200</pubDate>
         
         <guid>https://Kerzer.github.io/posts/eviction/</guid>
+        <description>Making test text to see if it changes order of what is presented</description>
+      </item>
+    
+      <item>
+        <title>Initial Data wrangling</title>
+        <link>https://Kerzer.github.io/posts/initial_data_wrangling/</link>
+        <pubDate>Mon, 10 May 2021 21:33:12 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/initial_data_wrangling/</guid>
         <description>Making test text to see if it changes order of what is presented</description>
       </item>
     
@@ -47,22 +56,22 @@ All rights reserved.</copyright>
       </item>
     
       <item>
+        <title>Map</title>
+        <link>https://Kerzer.github.io/posts/map/</link>
+        <pubDate>Sun, 27 May 2012 00:00:00 +0200</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/map/</guid>
+        <description>writing some text to see if the posts is in the build
+    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); });</description>
+      </item>
+    
+      <item>
         <title>Contact</title>
         <link>https://Kerzer.github.io/contact/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/contact/</guid>
         <description>See how to contact me.</description>
-      </item>
-    
-      <item>
-        <title>Map</title>
-        <link>https://Kerzer.github.io/posts/map/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/map/</guid>
-        <description>writing some text to see if the posts is in the build
-    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); });</description>
       </item>
     
   </channel>
