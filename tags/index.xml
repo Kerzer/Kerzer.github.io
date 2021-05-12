@@ -3,8 +3,19 @@
   <channel>
     <title>Evictions in NYC</title>
     <link>https://Kerzer.github.io/tags/</link>
-    <description></description>
+    <description>John Doe&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://Kerzer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>index</title>
+        <link>https://Kerzer.github.io/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/tags/index/</guid>
+        <description></description>
+      </item>
+    
   </channel>
 </rss>

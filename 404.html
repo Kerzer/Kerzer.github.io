@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-mode="light">
+<html lang="en" data-mode="dark">
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,10 +36,10 @@
 
 
 
-<title>Page not found</title>
+<title>Page not found | Evictions in NYC</title>
 
 
-
+<meta name="author" content="John Doe">
 <meta name="description" content="This page was not found.">
 
 
@@ -74,6 +74,8 @@
 
 
 
+  <meta name="twitter:dnt" content="on">
+
 
 
 
@@ -99,6 +101,330 @@
 
 
 
+  
+
+    
+    
+
+    
+
+      
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+    
+      
+        
+          
+        
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
+    
+    
+
+    
+
+      
+      
+    
+
+  
+
 
 
 
@@ -112,8 +438,8 @@
       "url": "https:\/\/Kerzer.github.io\/",
       "inLanguage": "en",
       "name": "Evictions in NYC",
-      "description": "",
-      "publisher": ""
+      "description": "John Doe's personal website",
+      "publisher": "John Doe"
     }
   </script>
 
@@ -132,14 +458,17 @@
   
 
   
-    <meta name="theme-color" content="#dd587c" media="(prefers-color-scheme: dark)">
-    <meta name="theme-color" content="#225670" media="(prefers-color-scheme: light)">
+
+    
+      <meta name="theme-color" content="#dd587c">
+    
+
   
 
   <style>
   
     html {
-      --accent: #225670;
+      --accent: #dd587c;
     }
   
     .req-js {
@@ -183,6 +512,30 @@
 
 
 
+  <link rel="me" href="https://facebook.com/%3cusername%3e"> 
+
+  <link rel="me" href="https://www.flickr.com/%3cusername%3e"> 
+
+  <link rel="me" href="https://open.audio/%3cusername%3e"> 
+
+  <link rel="me" href="https://github.com/%3cusername%3e"> 
+
+  <link rel="me" href="https://mastodon.social/%3cusername%3e"> 
+
+  <link rel="me" href="https://mastodon.too/%3cusername%3e"> 
+
+  <link rel="me" href="https://yet.another.one/%3cusername%3e"> 
+
+  <link rel="me" href="https://matrix.to/#/%3cusername%3e:matrix.org"> 
+
+  <link rel="me" href="https://matrix.to/#/%3cusername%3e:other.org"> 
+
+  <link rel="me" href="https://peertube.something/accounts/%3cusername%3e"> 
+
+  <link rel="me" href="https://pixelfed.social/%3cusername%3e"> 
+
+  <link rel="me" href="https://app.element.io/#/user/%3cusername%3e:matrix.org"> 
+
 
 
 
@@ -205,10 +558,6 @@
 // Based on: https://gist.github.com/regpaq/04c67e8aceecbf0fd819945835412d1f
 // =================================================
 
-
-  // New prefers-color-scheme media query to detect OS light/dark mode setting
-  const PREFERS_LIGHT = window.matchMedia('(prefers-color-scheme: light)');
-  const PREFERS_DARK = window.matchMedia('(prefers-color-scheme: dark)');
 
 
 const ROOT = document.documentElement;
@@ -233,11 +582,6 @@ if(localStorage.getItem('isDark') == 'true') {
 } else if(localStorage.getItem('isDark') == 'false') {
   setLight()
 
-  
-    } else if(PREFERS_DARK.matches) {
-      setDark()
-    } else if(PREFERS_LIGHT.matches) {
-      setLight()
   
 
 };
@@ -344,34 +688,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   
   
-    // Runs when OS changes light/dark mode. Changes only if you were on default
-    // color state (light on light mode, dark on dark mode).
-    function OSModeChange() {
-    
-      smoothTransition();
-      
-      if (PREFERS_LIGHT.matches) {
-        setLight();
-        localStorage.setItem('isDark', 'false')
-
-        
-        
-      } else if (PREFERS_DARK.matches) {
-        setDark();
-        localStorage.setItem('isDark', 'true')
-        
-        
-      };
-      
-      updateAccent()
-    };
-
-    // Listeners for when you change OS setting for light/dark mode
-    PREFERS_LIGHT.addListener(OSModeChange);
-    PREFERS_DARK.addListener(OSModeChange);
-  
-  
-  
   // Mode change button
   document.querySelector('footer button')
     .addEventListener('click', userModeChange)
@@ -394,6 +710,26 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+  
+    <nav aria-label="Main menu.">
+      <ul>
+        
+          <li>
+            <a class="btn" href="/about/">About</a>
+          </li>
+        
+          <li>
+            <a class="btn" href="/posts/">Posts</a>
+          </li>
+        
+          <li>
+            <a class="btn" href="/contact/">Contact</a>
+          </li>
+        
+      </ul>
+    </nav>
+  
+
 
     </header>
 
@@ -412,6 +748,9 @@ document.addEventListener('DOMContentLoaded', function () {
       
 
   
+    <p>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</p>
+  
 
 
 
@@ -426,10 +765,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 <section class="req-js">
-  <button class="outline-dashed" title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="#adjust"/></svg></button><input class="outline-dashed" type="color" list="presets" value="#225670" title="Change accent color." aria-label="Change accent color."><datalist id="presets"><option value="#225670"><option value="#dd587c"></datalist>
+  <button class="outline-dashed" title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="#adjust"/></svg></button><input class="outline-dashed" type="color" list="presets" value="#dd587c" title="Change accent color." aria-label="Change accent color."><datalist id="presets"><option value="#225670"><option value="#dd587c"><option value="#1f676b"><option value="#f3a530"><option value="#902b37"><option value="#1dbc91"><option value="#754e85"><option value="#7fc121"><option value="#a8314a"><option value="#ff7433"><option value="#3e6728"><option value="#c063bd"></datalist>
 </section>
 
 
+
+  <noscript>
+    <p class="noscript">Unable to execute JavaScript. Some features were disabled.</p>
+  </noscript>
 
 
 

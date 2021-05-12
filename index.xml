@@ -3,10 +3,21 @@
   <channel>
     <title>Evictions in NYC</title>
     <link>https://Kerzer.github.io/</link>
-    <description></description>
+    <description>John Doe&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright>
     <lastBuildDate>Tue, 11 May 2021 08:14:47 +0200</lastBuildDate><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About this project</title>
+        <link>https://Kerzer.github.io/about/</link>
+        <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/about/</guid>
+        <description>Hugo, the world's fastest framework for building websites</description>
+      </item>
+    
       <item>
         <title>Piechart</title>
         <link>https://Kerzer.github.io/posts/piechart/</link>
@@ -24,6 +35,24 @@
         
         <guid>https://Kerzer.github.io/posts/eviction/</guid>
         <description>Making test text to see if it changes order of what is presented</description>
+      </item>
+    
+      <item>
+        <title></title>
+        <link>https://Kerzer.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/archives/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Contact</title>
+        <link>https://Kerzer.github.io/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/contact/</guid>
+        <description>See how to contact me.</description>
       </item>
     
       <item>
