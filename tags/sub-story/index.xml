@@ -20,10 +20,10 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/s
     
       <item>
         <title>What happend in 2020?</title>
-        <link>https://Kerzer.github.io/posts/what_2020/</link>
+        <link>https://Kerzer.github.io/posts/2020/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Kerzer.github.io/posts/what_2020/</guid>
+        <guid>https://Kerzer.github.io/posts/2020/</guid>
         <description>    Plotly.d3.json(&#34;/map2.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map2.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
 Looking at the eviction count for the year 2020 it is alot lower than the previous years.
 was stopped by the goverment
@@ -32,10 +32,10 @@ Looking at the eviction count for the year 2020 it is alot lower than the previo
     
       <item>
         <title>Evictions in bronx</title>
-        <link>https://Kerzer.github.io/posts/evictions_bronx/</link>
+        <link>https://Kerzer.github.io/posts/bronx/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Kerzer.github.io/posts/evictions_bronx/</guid>
+        <guid>https://Kerzer.github.io/posts/bronx/</guid>
         <description>Making test text to see if it changes order of what is presented
  General trends What happend in 2020? Go back to the map  </description>
       </item>
