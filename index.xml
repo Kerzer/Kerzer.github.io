@@ -9,13 +9,54 @@
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
       <item>
+        <title>Reader Guide</title>
+        <link>https://Kerzer.github.io/posts/readers-guide/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/readers-guide/</guid>
+        <description>First step in your exploration of this data set should be to go and look at the map. This map shows Eviction count per council district. The following posts can be explored at will as they each tell a story based. on what is seen. You will also be dicreted from the map tab to other stories, but you can come back here to see if you missed anything. If you want to see all the main content click here.</description>
+      </item>
+    
+      <item>
         <title>Map</title>
         <link>https://Kerzer.github.io/posts/map/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/map/</guid>
-        <description>writing some text to see if the posts is in the build
-    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); });</description>
+        <description>This is the main section where you should do your exploration of how evictions happen in New York City. Before you move on spend a few minutes going through the options in the drop down menu to get a feel for what the map is showing you. When you are ready look below the map to find substories that relate to the most interesting viewings found in the map.
+    Plotly.</description>
+      </item>
+    
+      <item>
+        <title>General trends</title>
+        <link>https://Kerzer.github.io/posts/general_trends/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/general_trends/</guid>
+        <description>Making test text to see if it changes order of what is presented
+ Bronx epicenter of evictions What happend in 2020? Go back to the map  </description>
+      </item>
+    
+      <item>
+        <title>What happend in 2020?</title>
+        <link>https://Kerzer.github.io/posts/what_2020/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/what_2020/</guid>
+        <description>    Plotly.d3.json(&#34;/map2.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map2.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+Looking at the eviction count for the year 2020 it is alot lower than the previous years.
+was stopped by the goverment
+ General trends Bronx epicenter of evictions Go back to the map  </description>
+      </item>
+    
+      <item>
+        <title>Evictions in bronx</title>
+        <link>https://Kerzer.github.io/posts/evictions_bronx/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/evictions_bronx/</guid>
+        <description>Making test text to see if it changes order of what is presented
+ General trends What happend in 2020? Go back to the map  </description>
       </item>
     
       <item>
@@ -61,26 +102,7 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/index.
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/data_selection/</guid>
-        <description>Initially the selection of data was based on something that had impact on people within cities, along with being something that was possbile to find in a public data base. The Eviction dataset fitted those criteria, along with the fact it is rather suble why you would be evicted, which could be explored further with machine learning and the use of other data sets.
-At a closer expection of the data set the following observations were made.</description>
-      </item>
-    
-      <item>
-        <title>Eviction</title>
-        <link>https://Kerzer.github.io/posts/eviction/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/eviction/</guid>
-        <description>Making test text to see if it changes order of what is presented</description>
-      </item>
-    
-      <item>
-        <title>Initial Data wrangling</title>
-        <link>https://Kerzer.github.io/posts/initial_data_wrangling/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/initial_data_wrangling/</guid>
-        <description>Making test text to see if it changes order of what is presented</description>
+        <description>The main inspiration for this project came from the work concerning crime in San Francisco, which was done in relation to course 02806 about analysis and visualization of data. Based of the two initial projects done in the course one of the main features that stuck out was the use of geojson and plotly to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore and understand the data at thier own pace.</description>
       </item>
     
   </channel>

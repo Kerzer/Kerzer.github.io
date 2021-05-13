@@ -9,11 +9,38 @@
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
       <item>
+        <title>All Borogouhs</title>
+        <link>https://Kerzer.github.io/tags/all-borogouhs/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/tags/all-borogouhs/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Content</title>
+        <link>https://Kerzer.github.io/tags/content/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/tags/content/</guid>
+        <description></description>
+      </item>
+    
+      <item>
         <title>Data Wrangling</title>
         <link>https://Kerzer.github.io/tags/data-wrangling/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/tags/data-wrangling/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Explore</title>
+        <link>https://Kerzer.github.io/tags/explore/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/tags/explore/</guid>
         <description></description>
       </item>
     
@@ -27,20 +54,20 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/i
       </item>
     
       <item>
-        <title>Intro</title>
-        <link>https://Kerzer.github.io/tags/intro/</link>
+        <title>Guide</title>
+        <link>https://Kerzer.github.io/tags/guide/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Kerzer.github.io/tags/intro/</guid>
+        <guid>https://Kerzer.github.io/tags/guide/</guid>
         <description></description>
       </item>
     
       <item>
-        <title>New York city</title>
-        <link>https://Kerzer.github.io/tags/new-york-city/</link>
+        <title>Sub story</title>
+        <link>https://Kerzer.github.io/tags/sub-story/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Kerzer.github.io/tags/new-york-city/</guid>
+        <guid>https://Kerzer.github.io/tags/sub-story/</guid>
         <description></description>
       </item>
     

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evictions in NYC</title>
+    <link>https://Kerzer.github.io/tags/content/</link>
+    <description>John Doe&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/content/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Reader Guide</title>
+        <link>https://Kerzer.github.io/posts/readers-guide/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/readers-guide/</guid>
+        <description>First step in your exploration of this data set should be to go and look at the map. This map shows Eviction count per council district. The following posts can be explored at will as they each tell a story based. on what is seen. You will also be dicreted from the map tab to other stories, but you can come back here to see if you missed anything. If you want to see all the main content click here.</description>
+      </item>
+    
+      <item>
+        <title>Map</title>
+        <link>https://Kerzer.github.io/posts/map/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/map/</guid>
+        <description>This is the main section where you should do your exploration of how evictions happen in New York City. Before you move on spend a few minutes going through the options in the drop down menu to get a feel for what the map is showing you. When you are ready look below the map to find substories that relate to the most interesting viewings found in the map.
+    Plotly.</description>
+      </item>
+    
+      <item>
+        <title>General trends</title>
+        <link>https://Kerzer.github.io/posts/general_trends/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/general_trends/</guid>
+        <description>Making test text to see if it changes order of what is presented
+ Bronx epicenter of evictions What happend in 2020? Go back to the map  </description>
+      </item>
+    
+      <item>
+        <title>What happend in 2020?</title>
+        <link>https://Kerzer.github.io/posts/what_2020/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/what_2020/</guid>
+        <description>    Plotly.d3.json(&#34;/map2.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map2.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+Looking at the eviction count for the year 2020 it is alot lower than the previous years.
+was stopped by the goverment
+ General trends Bronx epicenter of evictions Go back to the map  </description>
+      </item>
+    
+      <item>
+        <title>Evictions in bronx</title>
+        <link>https://Kerzer.github.io/posts/evictions_bronx/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/evictions_bronx/</guid>
+        <description>Making test text to see if it changes order of what is presented
+ General trends What happend in 2020? Go back to the map  </description>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://Kerzer.github.io/en/sitemap.xml</loc>
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/readers-guide/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
     
-  </sitemap>
   
-  <sitemap>
-    <loc>https://Kerzer.github.io/pt/sitemap.xml</loc>
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/map/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
     
-  </sitemap>
   
-</sitemapindex>
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/general_trends/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/what_2020/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/evictions_bronx/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/genre/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/about/</loc>
+      
+      
+        <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/archives/</loc>
+      
+      
+        <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/data_selection/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+</urlset>

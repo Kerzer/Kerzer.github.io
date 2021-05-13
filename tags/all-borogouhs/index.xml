@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evictions in NYC</title>
+    <link>https://Kerzer.github.io/tags/all-borogouhs/</link>
+    <description>John Doe&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/all-borogouhs/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>General trends</title>
+        <link>https://Kerzer.github.io/posts/general_trends/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/general_trends/</guid>
+        <description>Making test text to see if it changes order of what is presented
+ Bronx epicenter of evictions What happend in 2020? Go back to the map  </description>
+      </item>
+    
+  </channel>
+</rss>

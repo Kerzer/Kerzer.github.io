@@ -18,5 +18,14 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/e
 Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data</description>
       </item>
     
+      <item>
+        <title>Data selection</title>
+        <link>https://Kerzer.github.io/posts/data_selection/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/data_selection/</guid>
+        <description>The main inspiration for this project came from the work concerning crime in San Francisco, which was done in relation to course 02806 about analysis and visualization of data. Based of the two initial projects done in the course one of the main features that stuck out was the use of geojson and plotly to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore and understand the data at thier own pace.</description>
+      </item>
+    
   </channel>
 </rss>

@@ -14,8 +14,7 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/d
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/data_selection/</guid>
-        <description>Initially the selection of data was based on something that had impact on people within cities, along with being something that was possbile to find in a public data base. The Eviction dataset fitted those criteria, along with the fact it is rather suble why you would be evicted, which could be explored further with machine learning and the use of other data sets.
-At a closer expection of the data set the following observations were made.</description>
+        <description>The main inspiration for this project came from the work concerning crime in San Francisco, which was done in relation to course 02806 about analysis and visualization of data. Based of the two initial projects done in the course one of the main features that stuck out was the use of geojson and plotly to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore and understand the data at thier own pace.</description>
       </item>
     
   </channel>
