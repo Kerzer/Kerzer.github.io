@@ -4,10 +4,23 @@
   
   
     <url>
-      <loc>https://Kerzer.github.io/posts/data_selection/</loc>
+      <loc>https://Kerzer.github.io/posts/map/</loc>
       
       
-        <lastmod>2021-05-13T00:00:00+02:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/genre/</loc>
+      
       
       
       
@@ -38,40 +51,6 @@
   
   
     <url>
-      <loc>https://Kerzer.github.io/posts/eviction/</loc>
-      
-      
-        <lastmod>2021-05-10T21:33:12+02:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://Kerzer.github.io/posts/initial_data_wrangling/</loc>
-      
-      
-        <lastmod>2021-05-10T21:33:12+02:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
       <loc>https://Kerzer.github.io/archives/</loc>
       
       
@@ -89,10 +68,38 @@
   
   
     <url>
-      <loc>https://Kerzer.github.io/posts/map/</loc>
+      <loc>https://Kerzer.github.io/posts/data_selection/</loc>
       
       
-        <lastmod>2012-05-27T00:00:00+02:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/eviction/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://Kerzer.github.io/posts/initial_data_wrangling/</loc>
+      
       
       
       

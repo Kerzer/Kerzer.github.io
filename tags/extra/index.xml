@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evictions in NYC</title>
+    <link>https://Kerzer.github.io/tags/extra/</link>
+    <description>John Doe&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/extra/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Genre</title>
+        <link>https://Kerzer.github.io/posts/genre/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Kerzer.github.io/posts/genre/</guid>
+        <description>The main thing created as a visualzation tool in this project is the map that was created.
+Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data</description>
+      </item>
+    
+  </channel>
+</rss>
