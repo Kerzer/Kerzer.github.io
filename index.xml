@@ -23,7 +23,7 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/index.
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/map/</guid>
-        <description>This is the main section where you should do your exploration of how evictions happen in New York City. Before you move on spend a few minutes going through the options in the drop down menu to get a feel for what the map is showing you. When you are ready look below the map to find substories that relate to the most interesting viewings found in the map. Please notice there is a hover function.</description>
+        <description>This is the main section where you should do your exploration of how evictions happen in New York City. Before you move on spend a few minutes going through the options in the drop down menu to get a feel for what the map is showing you. When you are ready look below the map to find substories that relate to the most interesting viewings found in the map. Either view the map based on boroughs or with council districts which was the most common seperation of data found for New York City with regards to evictions.</description>
       </item>
     
       <item>
@@ -54,7 +54,8 @@ Looking at the eviction count for the year 2020 it is alot lower than the previo
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/bronx/</guid>
-        <description>Making test text to see if it changes order of what is presented
+        <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+Making test text to see if it changes order of what is presented
  General trends What happend in 2020? Go back to the map  </description>
       </item>
     

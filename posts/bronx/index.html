@@ -418,7 +418,7 @@
       "inLanguage": "en",
       "datePublished": "0001-01-01",
       
-      "wordCount" : "24",
+      "wordCount" : "34",
       "publisher": {
         "@type": "Person",
         "name": "John Doe"
@@ -764,6 +764,18 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+<p>
+  
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+
+<div id="/map.json" class="plotly" style="height:700px"></div>
+<script>
+Plotly.d3.json("/map.json", function(err, fig) {
+    Plotly.plot('\/map.json', fig.data, fig.layout, {responsive: true});
+});
+</script></p>
 <p>Making test text to see if it changes order of what is presented</p>
 <ul>
 <li><a href="https://kerzer.github.io/posts/General_trends/">General trends</a></li>
