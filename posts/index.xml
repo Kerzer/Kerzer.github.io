@@ -43,7 +43,7 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/posts/
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/2020/</guid>
-        <description>    Plotly.d3.json(&#34;/map2.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map2.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+        <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
 Looking at the eviction count for the year 2020 it is alot lower than the previous years.
 was stopped by the goverment
  General trends Bronx epicenter of evictions Go back to the map  </description>

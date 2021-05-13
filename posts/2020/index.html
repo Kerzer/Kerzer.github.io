@@ -770,10 +770,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-<div id="/map2.json" class="plotly" style="height:700px"></div>
+<div id="/map.json" class="plotly" style="height:700px"></div>
 <script>
-Plotly.d3.json("/map2.json", function(err, fig) {
-    Plotly.plot('\/map2.json', fig.data, fig.layout, {responsive: true});
+Plotly.d3.json("/map.json", function(err, fig) {
+    Plotly.plot('\/map.json', fig.data, fig.layout, {responsive: true});
 });
 </script></p>
 <p>Looking at the eviction count for the year 2020 it is alot lower than the previous years.</p>
