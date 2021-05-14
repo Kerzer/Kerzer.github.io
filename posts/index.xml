@@ -54,7 +54,6 @@ Looking at the eviction count for the year 2020 it is alot lower than the previo
         
         <guid>https://Kerzer.github.io/posts/bronx/</guid>
         <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
-Making test text to see if it changes order of what is presented
  General trends What happend in 2020? Go back to the map  </description>
       </item>
     
