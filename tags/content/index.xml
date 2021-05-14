@@ -42,12 +42,9 @@ Welcome to the segment about general trends in the dataset. The main topic of th
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/2020/</guid>
-        <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+        <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
 In this section the yearly trend found in the map is explained in greater detail.
-Looking at the eviction count for the year 2020 it is alot lower than the previous years.
-open here
-was stopped by the goverment
- General trends Bronx epicenter of evictions Go back to the map  </description>
+Looking at the eviction count for the year 2020 it is alot lower than the previous years. The main reason for this is that evctions were stopped by the goverment because of Covid-19 which struck New York City early on in the pandemic.</description>
       </item>
     
       <item>
