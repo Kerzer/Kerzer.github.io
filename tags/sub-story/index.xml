@@ -9,16 +9,6 @@
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/sub-story/index.xml" rel="self" type="application/rss+xml" />
       <item>
-        <title>General trends</title>
-        <link>https://Kerzer.github.io/posts/general_trends/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/general_trends/</guid>
-        <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
-Welcome to the segment about general trends in the dataset. The main topic of this section will be to look at diference between the boroughs to find common denoimnotors across of all of New York City, but also see which boroughs deviate the most. If you have not seen the boroughs in the map go back and enable the right layout in the drop down menu.</description>
-      </item>
-    
-      <item>
         <title>What happend in 2020?</title>
         <link>https://Kerzer.github.io/posts/2020/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,16 +17,6 @@ Welcome to the segment about general trends in the dataset. The main topic of th
         <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
 In this section the yearly trend found in the map is explained in greater detail.
 Looking at the eviction count for the year 2020 it is alot lower than the previous years. The main reason for this is that evctions were stopped by the goverment because of Covid-19 which struck New York City early on in the pandemic.</description>
-      </item>
-    
-      <item>
-        <title>Evictions in bronx</title>
-        <link>https://Kerzer.github.io/posts/bronx/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/bronx/</guid>
-        <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
- General trends What happend in 2020? Go back to the map  </description>
       </item>
     
   </channel>

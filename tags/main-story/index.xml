@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evictions in NYC</title>
-    <link>https://Kerzer.github.io/tags/content/</link>
+    <link>https://Kerzer.github.io/tags/main-story/</link>
     <description>John Doe&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
-All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/content/index.xml" rel="self" type="application/rss+xml" />
+All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/main-story/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Evictions in New York City </title>
         <link>https://Kerzer.github.io/posts/map/</link>
@@ -15,17 +15,6 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/c
         
         <guid>https://Kerzer.github.io/posts/map/</guid>
         <description>Being thrown out of your apartment is a drastic is life impacting event. A lot of factors leads in to being evictied from your home, but what affects whether or not you are evicted? The goal of this website is to explore what attributes are common when are evictions happend, and exploring where in New York City evictions most commonly occur. This will be done by breaking New York City into smaller sections, and in coorperating other elements such as complaints about landlords to see if there is a correaltion.</description>
-      </item>
-    
-      <item>
-        <title>What happend in 2020?</title>
-        <link>https://Kerzer.github.io/posts/2020/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/2020/</guid>
-        <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
-In this section the yearly trend found in the map is explained in greater detail.
-Looking at the eviction count for the year 2020 it is alot lower than the previous years. The main reason for this is that evctions were stopped by the goverment because of Covid-19 which struck New York City early on in the pandemic.</description>
       </item>
     
   </channel>

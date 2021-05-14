@@ -29,7 +29,7 @@
 
 
 
-<title>Map | Evictions in NYC</title>
+<title>Evictions in New York City  | Evictions in NYC</title>
 
 
 <meta name="author" content="John Doe">
@@ -54,7 +54,7 @@
 
 
 <meta property="og:site_name" content="Evictions in NYC">
-<meta property="og:title" content="Map">
+<meta property="og:title" content="Evictions in New York City ">
 
   <meta property="og:url" content="https://Kerzer.github.io/posts/map/">
 
@@ -411,14 +411,14 @@
         "@type": "WebSite",
         "@id": "https:\/\/Kerzer.github.io\/"
       },
-      "headline": "Map",
+      "headline": "Evictions in New York City ",
       "description": "",
       
       "url": "https:\/\/Kerzer.github.io\/posts\/map\/",
       "inLanguage": "en",
       "datePublished": "0001-01-01",
       
-      "wordCount" : "124",
+      "wordCount" : "946",
       "publisher": {
         "@type": "Person",
         "name": "John Doe"
@@ -707,11 +707,11 @@ document.addEventListener('DOMContentLoaded', function () {
     <article>
       <header>
         
-        <h1>Map</h1>
+        <h1>Evictions in New York City </h1>
 
         
           <section class="terms">
-            <ul><li><a class="btn" href="/tags/content/">Content</a></li><li><a class="btn" href="/tags/explore/">Explore</a></li></ul>
+            <ul><li><a class="btn" href="/tags/content/">Content</a></li><li><a class="btn" href="/tags/main-story/">Main story</a></li></ul>
           </section>
         
         
@@ -764,29 +764,290 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-<p>This is the main section where you should do your exploration of how evictions happen in New York City.
-Before you move on spend a few minutes going through the options in the drop down menu to get a feel for
-what the map is showing you. When you are ready look below the map to find substories that relate to the
-most interesting viewings found in the map. Either view the map based on boroughs or with council districts
-which was the most common seperation of data found for New York City with regards to evictions.
-Please notice there is a hover function.
+<p>Being thrown out of your apartment is a drastic is life impacting event. A lot of factors leads in to
+being evictied from your home, but what affects whether or not you are evicted? <br></p>
+<p>The goal of this website is to explore what  attributes are common when are evictions happend,
+and exploring where in New York City evictions most commonly occur. This will be done by
+breaking New York City into smaller sections, and in coorperating other elements such as
+complaints about landlords to see if there is a correaltion.</p>
 
+
+
+
+
+  <h2 id="new-york-city"><a class="anchor" href="#new-york-city" title='Anchor for "New York City".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> New York City</h2> 
+
+<p>To gain an overview of the servity of evictions in New York City the first thing taken into consideration is
+the amount of evictions for the last few years. By looking at the graph below the main trend is that evictions
+are becoming more uncommon in New York City.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+    <img
+      
+      loading="lazy"
+      src="https://Kerzer.github.io/
+/eviction_by_year.png"
+      alt="eviction_by_year"
+    />
+
+  
+
+
+<sub><sup>If it is hard to read try opening it by right clicking or <a href="https://kerzer.github.io//eviction_by_year.png">open here</a></sup></sub></p>
+<p><strong>Måske lav det her om til en kurve</strong></p>
+<p>Looking at the eviction count for the year 2020 it is drasticly lower than the previous years. The main reason for this is that 
+evctions <a href="https://ny.curbed.com/2020/3/16/21180842/coronavirus-new-york-state-eviction-moratorium">were stopped by the goverment</a>
+because of <a href="https://www.worldometers.info/coronavirus/country/us/">Covid-19</a> which struck New York City early on in the pandemic.
+Because of the need to stop the spread, <a href="https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-provider-quarantine-precautions.pdf">isolation orders</a>
+was issued by the state to avoid the spread running rampant. This led to a reduction in the number of evictions.</p>
+
+
+
+
+
+  <h2 id="comparison-of-boroughs-and-council-districts"><a class="anchor" href="#comparison-of-boroughs-and-council-districts" title='Anchor for "Comparison of Boroughs and Council Districts".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Comparison of Boroughs and Council Districts</h2> 
+
+<p>In order to gain a better understanding of what attributes correalate to being evicted the dataset is split up into smaller segements.
+Two main appoarches are used here with splitting the dataset into 5 larger groups called <a href="https://en.wikipedia.org/wiki/Boroughs_of_New_York_City">boroughs</a>
+or into 51 smaller segements called <a href="https://en.wikipedia.org/wiki/New_York_City_Council">Council Districts</a>. <br></p>
+<p>The main thing achived by this split is the ability to compare each borough or council district to another.
+Since New York is very different depending on where in the city you are the distinct attributes in both
+council districts and boroughs are quite different and gives way to a lot of interesting analysis on the
+data set.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+    <img
+      
+      loading="lazy"
+      src="https://Kerzer.github.io/
+/boroughs_NYC.png"
+      alt="boroughs_NYC"
+    />
+
+  
+
+
+<sub><sup><a href="https://en.wikipedia.org/wiki/Boroughs_of_New_York_City">Source: Wikipedia</a></sup></sub></p>
+<p>Looking at this table it is very clear that there are sharp contrasts depending on what attributes are inspected.
+By looking at The Bronx and Mahatten are similar in population number, but vastly different in GDP and
+population density.</p>
+
+
+
+
+
+  <h3 id="map-of-evictions"><a class="anchor" href="#map-of-evictions" title='Anchor for "Map of evictions".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Map of evictions</h3> 
+
+<p>The strongest benefit of these splits is however also the ability to create a visualization that shows
+where in New York city the evictions take place. By also using a demograpic dataset further information can
+also be gauged from each district.</p>
+<p>
   
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
 
-<div id="/map.json" class="plotly" style="height:800px"></div>
+<div id="/map.json" class="plotly" style="height:750px"></div>
 <script>
 Plotly.d3.json("/map.json", function(err, fig) {
     Plotly.plot('\/map.json', fig.data, fig.layout, {responsive: true});
 });
-</script></p>
-<ul>
-<li><a href="https://kerzer.github.io/posts/general_trends/">General trends</a></li>
-<li><a href="https://kerzer.github.io/posts/bronx/">Trends in The Bronx</a></li>
-<li><a href="https://kerzer.github.io/posts/2020/">What happend in 2020?</a></li>
-</ul>
+</script>
+<sub><sup>hover to highlight - open a different tab to keep this map up as it is refered to throughout the page.</sup></sub></p>
+<p>By comparing what council districts have high eviction count with the boroughs it is clear that they are the most common in The Bronx and Brooklyn area. <br></p>
+<p>It is also noticeable that it is alot more important to look at the council district than at which borough a part of the city is in as the volatility is quite large
+between council districts in some of the boroughs. The boroughs are however still good to visualize general segments of the city and are maintained and used throughout
+for ease of understanding.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+    <img
+      
+      loading="lazy"
+      src="https://Kerzer.github.io/
+/evictions.png"
+      alt="EV"
+    />
+
+  
+
+
+<sub><sup>If it is hard to read try opening it by right clicking or <a href="https://kerzer.github.io//evictions.png">open here</a></sup></sub></p>
+<p>As it is now clear where the evictions happend in New York City it becomes important to explore <strong>why</strong> they happen.</p>
+
+
+
+
+
+  <h3 id="demographics"><a class="anchor" href="#demographics" title='Anchor for "Demographics".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Demographics</h3> 
+
+<p>As New York City contains a large variety of people coming for all over the world, would be interesting to see whether evictions are
+more common within certain elements of the population. In the map it was also shown the majority national background in each district.</p>
+
+
+
+
+
+  <h4 id="manhatten-and-the-bronx"><a class="anchor" href="#manhatten-and-the-bronx" title='Anchor for "Manhatten and The Bronx".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Manhatten and The Bronx</h4> 
+
+<p>An comprisons can be made between Manhatten and The Bronx with compareable population sizes.
+However by comparing the number of <a href="https://kerzer.github.io//evictions.png">evictions</a> they are at opposite 
+ends of number of evictions. Here the demograpic differences are taken into account to see where these two boroughs differ from each other.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+    <img
+      
+      loading="lazy"
+      src="https://Kerzer.github.io/
+/stats_GT.png"
+      alt="Stats_GT"
+    />
+
+  
+
+
+<sub><sup><a href="https://kerzer.github.io//stats_GT.png">open here</a></sup></sub></p>
+<p>To mention a few world renowned attractions and institutions found on Manhatten <a href="https://www.google.com/maps/place/Wall+St,+New+York,+NY,+USA/@40.720791,-73.9996339,14.25z/data=!4m5!3m4!1s0x89c25a165bedccab:0x2cb2ddf003b5ae01!8m2!3d40.7060361!4d-74.0088256">Wall Street</a>,
+<a href="https://www.google.com/maps/place/Times+Square/@40.7574645,-73.9869094,16.5z/data=!4m5!3m4!1s0x89c25855c6480299:0x55194ec5a1ae072e!8m2!3d40.7579747!4d-73.9855426">Times Square</a>,
+and <a href="https://www.broadway.com/">Boardway</a> are the three first of a <a href="https://www.nyctourist.com/nyc-most-popular-attractions-map">long list</a> of places in Manhatten which is commonly known even
+to most people in Denmark. Manhatten is clearly <strong>the</strong> place to be, which also explains why eviction rates are low,
+as this is a place of high barrier of entry and people are less like to enter without already being part of a more
+wealthy segement of the society.</p>
+<p>The largest section of people in Manhatten is white people while The Bronx is mainly
+Hespanic origin. This paints the picture that it is mostly an immigrants and poor section that lives in bronx</p>
+
+
+
+
+
+  <h4 id="the-bronx"><a class="anchor" href="#the-bronx" title='Anchor for "The Bronx".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> The Bronx</h4> 
+
+
+
+
+
+
+  <h4 id="staten-island"><a class="anchor" href="#staten-island" title='Anchor for "Staten Island".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Staten Island</h4> 
+
+<p>The interesting addtion of Staten Island to New York seem like an outlier. The density and wealth is the lowest for any
+of the boroughs in New York City, however the number of evictions is still very low. The geograpical location of Staten
+Island plays in here, with the distance to what is considered New York downtown.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+    <img
+      
+      loading="lazy"
+      src="https://Kerzer.github.io/
+/Renters.png"
+      alt="Renters"
+    />
+
+  
+
+
+<sub><sup><a href="https://kerzer.github.io//Renters.png">open here</a></sup></sub></p>
+<p>Staten Island eviction count is apporaching a
+more how a rural community experiences evictions, where the turnover of homes is lower. The willingness to remove homeowners is then lower as
+it is harder to replace them than in the other boroughs which relates to a different ecosystem. This is also supported by
+lookinig at how many renters are present in Staten Island compared to all other boroughs.</p>
+
+
+
+
+
+  <h3 id="complaints-in-council-districts"><a class="anchor" href="#complaints-in-council-districts" title='Anchor for "Complaints In Council districts".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Complaints In Council districts</h3> 
+
+
+
+
+
+
+  <h2 id="conclusion"><a class="anchor" href="#conclusion" title='Anchor for "Conclusion".'><svg aria-hidden="true"><use xlink:href="#hashtag"/></svg></a> Conclusion</h2> 
+
 
 
 

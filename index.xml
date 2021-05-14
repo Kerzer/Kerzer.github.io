@@ -9,31 +9,12 @@
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/index.xml" rel="self" type="application/rss+xml" />
       <item>
-        <title>Reader Guide</title>
-        <link>https://Kerzer.github.io/posts/readers-guide/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/readers-guide/</guid>
-        <description>First step in your exploration of this data set should be to go and look at the map. This map shows Eviction count per council district. The following posts can be explored at will as they each tell a story based on what is seen. You will also be dicreted from the map tab to other stories, but you can come back here to see if you missed anything. If you want to see all the main content click here.</description>
-      </item>
-    
-      <item>
-        <title>Map</title>
+        <title>Evictions in New York City </title>
         <link>https://Kerzer.github.io/posts/map/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/map/</guid>
-        <description>This is the main section where you should do your exploration of how evictions happen in New York City. Before you move on spend a few minutes going through the options in the drop down menu to get a feel for what the map is showing you. When you are ready look below the map to find substories that relate to the most interesting viewings found in the map. Either view the map based on boroughs or with council districts which was the most common seperation of data found for New York City with regards to evictions.</description>
-      </item>
-    
-      <item>
-        <title>General trends</title>
-        <link>https://Kerzer.github.io/posts/general_trends/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/general_trends/</guid>
-        <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
-Welcome to the segment about general trends in the dataset. The main topic of this section will be to look at diference between the boroughs to find common denoimnotors across of all of New York City, but also see which boroughs deviate the most. If you have not seen the boroughs in the map go back and enable the right layout in the drop down menu.</description>
+        <description>Being thrown out of your apartment is a drastic is life impacting event. A lot of factors leads in to being evictied from your home, but what affects whether or not you are evicted? The goal of this website is to explore what attributes are common when are evictions happend, and exploring where in New York City evictions most commonly occur. This will be done by breaking New York City into smaller sections, and in coorperating other elements such as complaints about landlords to see if there is a correaltion.</description>
       </item>
     
       <item>
@@ -45,16 +26,6 @@ Welcome to the segment about general trends in the dataset. The main topic of th
         <description>Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
 In this section the yearly trend found in the map is explained in greater detail.
 Looking at the eviction count for the year 2020 it is alot lower than the previous years. The main reason for this is that evctions were stopped by the goverment because of Covid-19 which struck New York City early on in the pandemic.</description>
-      </item>
-    
-      <item>
-        <title>Evictions in bronx</title>
-        <link>https://Kerzer.github.io/posts/bronx/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Kerzer.github.io/posts/bronx/</guid>
-        <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
- General trends What happend in 2020? Go back to the map  </description>
       </item>
     
       <item>
@@ -94,7 +65,8 @@ Visual narrative tactics are visual applications which can be used to assist the
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/work_dist/</guid>
-        <description>Data selection Genre Discussion Work Distribution  Back to front page</description>
+        <description>this project was made in joint effort by Michael Vedege, Henan Zhao, and Christian Lund. The main contributions are:
+ Michael Vedege - Data exploration and visualization Henan Zhao - Notebook with theory and fulfillment of project criteria Christian Lund - Creation of Webpage   Data selection Genre Discussion Work Distribution  Back to front page</description>
       </item>
     
       <item>
