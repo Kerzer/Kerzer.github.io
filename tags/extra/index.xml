@@ -14,7 +14,8 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/e
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/data_selection/</guid>
-        <description>The main inspiration for this project came from the work concerning crime in San Francisco, which was done in relation to course 02806 about analysis and visualization of data. Based of the two initial projects done in the course one of the main features that stuck out was the use of geojson and plotly to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore and understand the data at thier own pace.</description>
+        <description>Everything inside of the extra posts can also be found inside our notebook
+The main inspiration for this project came from the work concerning crime in San Francisco, which was done in relation to course 02806 about analysis and visualization of data. Based of the two initial projects done in the course one of the main features that stuck out was the use of geojson and plotly to add overlays to maps.</description>
       </item>
     
       <item>
@@ -23,7 +24,8 @@ All rights reserved.</copyright><atom:link href="https://Kerzer.github.io/tags/e
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/genre/</guid>
-        <description>Visual narrative tactics are visual applications which can be used to assist the narrative, which is further subdivided into three segregated sections: visual structuring, highlighting, and transition guidance. We will introduce the tools that we use for data visualization from each of three categories.
+        <description>Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data
+Visual narrative tactics are visual applications which can be used to assist the narrative, which is further subdivided into three segregated sections: visual structuring, highlighting, and transition guidance. We will introduce the tools that we use for data visualization from each of three categories.
   Visual structuring: The concept of visual structuring is related to the narrative structure, and it allows viewers to identify their position within the larger organization of the visualization.</description>
       </item>
     
