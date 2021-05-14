@@ -43,9 +43,11 @@ Welcome to the segment about general trends in the dataset. The main topic of th
         
         <guid>https://Kerzer.github.io/posts/2020/</guid>
         <description>    Plotly.d3.json(&#34;/map.json&#34;, function(err, fig) { Plotly.plot(&#39;\/map.json&#39;, fig.data, fig.layout, {responsive: true}); }); 
+In this section the yearly trend found in the map is explained in greater detail.
 Looking at the eviction count for the year 2020 it is alot lower than the previous years.
-was stopped by the goverment
- General trends Bronx epicenter of evictions Go back to the map  </description>
+open here
+was stopped by the goverment
+ General trends Bronx epicenter of evictions Go back to the map  </description>
       </item>
     
       <item>
@@ -65,8 +67,8 @@ Making test text to see if it changes order of what is presented
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://Kerzer.github.io/posts/genre/</guid>
-        <description>The main thing created as a visualzation tool in this project is the map that was created.
-Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data</description>
+        <description>Visual narrative tactics are visual applications which can be used to assist the narrative, which is further subdivided into three segregated sections: visual structuring, highlighting, and transition guidance. We will introduce the tools that we use for data visualization from each of three categories.
+  Visual structuring: The concept of visual structuring is related to the narrative structure, and it allows viewers to identify their position within the larger organization of the visualization.</description>
       </item>
     
       <item>
